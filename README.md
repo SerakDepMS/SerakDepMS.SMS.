@@ -23,19 +23,8 @@ HTML5, CSS3 con animaciones avanzadas, JavaScript vanilla, Font Awesome para ico
 4. Resuelve las capas de cifrado para encontrar el número oculto
 5. Si logras descifrarlo, estarás listo para el siguiente nivel
 
-## Estructura del Proyecto
-
-- `index.html` - Estructura principal
-- `estilos.css` - Todos los estilos y animaciones
-- `util.js` - Funcionalidad interactiva
-- `multimedia/` - Recursos gráficos
-
 ## Requisitos para Candidatos
 
 Conocimientos sólidos en desarrollo web básico (HTML, CSS, JavaScript), experiencia con frameworks como React o Vue.js, manejo de control de versiones con Git, y habilidad para trabajar en equipo. Valoramos creatividad y disposición para aprender.
-
-## Detalles del Desafío
-
-El proyecto contiene un número oculto tras tres capas de cifrado. Los candidatos deben demostrar sus habilidades decodificando Base64, descifrando AES-CBC con la clave proporcionada y aplicando SHA-256 para verificación.
 
 © 2025 SerakDep MS - Todos los derechos reservados.

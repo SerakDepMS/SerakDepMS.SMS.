@@ -87,10 +87,8 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(
-      rgba(100, 255, 218, 0.03) 1px,
-      transparent 1px
-    ),
+  background-image: 
+    linear-gradient(rgba(100, 255, 218, 0.03) 1px, transparent 1px),
     linear-gradient(90deg, rgba(100, 255, 218, 0.03) 1px, transparent 1px);
   background-size: 25px 25px;
   background-position: center center;
@@ -999,7 +997,6 @@ h1::after {
   }
   .cyber-footer {
     padding: 2px;
-    margin-top: 4px;
   }
   .editor-controls {
     margin-top: 6px;

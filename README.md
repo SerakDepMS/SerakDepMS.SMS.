@@ -2,15 +2,6 @@
 
 Una experiencia web inmersiva con temática cyberpunk que combina efectos visuales avanzados con un desafío criptográfico para evaluar candidatos. Proyecto diseñado específicamente para programadores que deseen explorar nuevas fronteras del conocimiento y colaborar en un entorno de crecimiento mutuo.
 
-## Características Principales
-
-- **Interfaz Cyberpunk**: Diseño futurista con efectos holográficos, partículas y redes neuronales animadas
-- **Editor de Código Simulado**: Texto que se escribe progresivamente con efecto terminal
-- **Modo Neo**: Transformación visual al estilo Matrix con cambio completo de colores
-- **Desafío Multinivel**: Sistema de cifrado con tres capas (Base64, AES-CBC, SHA-256)
-- **Completamente Responsive**: Adaptado para dispositivos móviles y escritorio
-- **Controles Interactivos**: Velocidad ajustable, pausa, reinicio y función de copiado
-
 ## Tecnologías Utilizadas
 
 HTML5, CSS3 con animaciones avanzadas, JavaScript vanilla, Font Awesome para iconografía

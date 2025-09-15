@@ -2,9 +2,9 @@
 
 Una experiencia web inmersiva con temática cyberpunk que combina efectos visuales avanzados con un desafío criptográfico para evaluar candidatos. Proyecto diseñado específicamente para programadores que deseen explorar nuevas fronteras del conocimiento y colaborar en un entorno de crecimiento mutuo.
 
-## Tecnologías Utilizadas
+link de la página:
 
-HTML5, CSS3 con animaciones avanzadas, JavaScript vanilla, Font Awesome para iconografía
+https://serakdepms.github.io/SerakDepMS.SMS./
 
 ## Instrucciones de Uso
 
